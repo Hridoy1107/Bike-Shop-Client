@@ -3,14 +3,14 @@
 Web Url: https://bike-shop-client-iota.vercel.app/
 
 Admin: {
-email: admin@mail.com
-password: adm123
+email: admin@mail.com,
+password: adm123,
 role: admin
 }
 
 Customer: {
-email: adam@mail.com
-password: adm123
+email: adam@mail.com,
+password: adm123,
 role: customer
 }
 
